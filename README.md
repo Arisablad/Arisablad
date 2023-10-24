@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Remigiusz Szostak</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on [Arisabladscore](https://github.com/Arisablad/sports_app)
+- 🔭 I’m currently working on [Arisabladscore](https://sports-app-nu.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
