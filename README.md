@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Remigiusz Szostak</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently learning svelte.
+- 🔭 I’m currently learning C#.
 - I'm also gonna to make site about design patterns
 
 <h3 align="left">Connect with me:</h3>
